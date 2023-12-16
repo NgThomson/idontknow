@@ -1,0 +1,35 @@
+p{
+color: green;
+font-size: 20px;
+}
+.pboot{
+color: lightblue;
+font-size: 20px;
+}
+body {
+    background-color: aqua;
+}
+img {
+    width:"300px";
+    height:"300px";
+    background-color: gray;
+    padding: 20px;
+    border: 10px solid bisque;
+    margin-left: 30px;
+    border-radius: 100%;
+    border-bottom: 10px dashed black;
+}
+ol{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-type: circle;
+}
+h1{
+    font-size: 26px;
+    color: brown;
+    text-shadow: 2px 2px ;
+}
+.container-fluid{
+    background-color: aqua;
+}
